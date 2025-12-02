@@ -9,7 +9,7 @@
  : AI를 이용한 병뚜껑의 오염&스티커 자동 검사 및 분류 시스템
 
 
-### 🛠 기술 스택
+## 🛠 기술 스택
 <p align="left">
   <!-- Languages -->
   <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
@@ -46,5 +46,5 @@
   <img src="https://img.shields.io/badge/Microsoft Office-D83B01?style=flat&logo=microsoftoffice&logoColor=white"/>
 </p>
 
-### 📫 Contact  
+## 📫 Contact  
 [jmjae789@gmail.com](mailto:jmjae789@gmail.com)

@@ -7,7 +7,8 @@
  : 초음파 센서 + 엔코더를 이용한 차량 전방 제어 시스템
 - [스마트 팩토리](https://github.com/Jominzae/Project-SmartFactory) <br>
  : AI를 이용한 병뚜껑의 오염&스티커 자동 검사 및 분류 시스템
-
+- [스마트 라커](https://github.com/Jominzae/Project-SmartLocker) <br>
+ : STM32, RFID 카드와 비밀번호로 잠금/해제를 제어하는 개인 스마트 사물함
 
 ## 🛠 기술 스택
 <p align="left">

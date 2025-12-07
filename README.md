@@ -4,7 +4,7 @@
 
 ## 🚀 프로젝트 
 
-### [스마트 팩토리](https://github.com/Jominzae/Project-SmartFactory) (2025.09.24 ~ 2025.10.22)
+### [스마트 팩토리](https://github.com/Jominzae/Project-SmartFactory) - 5인 (2025.09.24 ~ 2025.10.22)
 
 - **프로젝트 기관:** 대한상공회의소 서울기술교육센터
 - **핵심 키워드:** AI 자동 분류, 카메라, 제품 데이터 관리
@@ -12,7 +12,7 @@
 
 ---
 
-### [스마트 자동차 제어 시스템](https://github.com/Jominzae/Project-SmartCar) (2025.08.21 ~ 2025.08.25)
+### [스마트 자동차 제어 시스템](https://github.com/Jominzae/Project-SmartCar) - 2인 (2025.08.21 ~ 2025.08.25)
 
 - **프로젝트 기관:** 대한상공회의소 서울기술교육센터
 - **핵심 키워드:** 장애물 인식, 모터 제어, TCP/IP 통신, 차량 데이터 관리
@@ -20,7 +20,7 @@
 
 ---
 
-### [스마트 라커](https://github.com/Jominzae/Project-SmartLocker) (2025.08.06 ~ 2025.08.08)
+### [스마트 라커](https://github.com/Jominzae/Project-SmartLocker) - 2인 (2025.08.06 ~ 2025.08.08)
 
 - **프로젝트 기관:** 대한상공회의소 서울기술교육센터
 - **핵심 키워드:** 스마트 라커 시스템 구현, 비밀번호 입력시 열림, RFID 인식

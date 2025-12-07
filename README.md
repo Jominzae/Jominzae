@@ -3,12 +3,30 @@
 🏅 intel 엣지 AI SW 아카데미 8기 수료
 
 ## 🚀 프로젝트 
-- [스마트 자동차 제어 시스템](https://github.com/Jominzae/Project-SmartCar) <br>
- : 초음파 센서 + 엔코더를 이용한 차량 전방 제어 시스템
-- [스마트 팩토리](https://github.com/Jominzae/Project-SmartFactory) <br>
- : AI를 이용한 병뚜껑의 오염&스티커 자동 검사 및 분류 시스템
-- [스마트 라커](https://github.com/Jominzae/Project-SmartLocker) <br>
- : STM32, RFID 카드와 비밀번호로 잠금/해제를 제어하는 개인 스마트 사물함
+
+### [스마트 팩토리](https://github.com/Jominzae/Project-SmartFactory) (2025.09.24 ~ 2025.10.22)
+
+- **프로젝트 기관:** 대한상공회의소 서울기술교육센터
+- **핵심 키워드:** AI 자동 분류, 카메라, 제품 데이터 관리
+- **핵심 기술:** Raspberry Pi, Arduino, Intel Geti, MariaDB, Tkinter
+
+---
+
+### [스마트 자동차 제어 시스템](https://github.com/Jominzae/Project-SmartCar) (2025.08.21 ~ 2025.08.25)
+
+- **프로젝트 기관:** 대한상공회의소 서울기술교육센터
+- **핵심 키워드:** 장애물 인식, 모터 제어, TCP/IP 통신, 차량 데이터 관리
+- **핵심 기술:** Raspberry Pi, Arduino, Stm32, C, Wifi / Bluetooth Module, Firmware
+
+---
+
+### [스마트 라커](https://github.com/Jominzae/Project-SmartLocker) (2025.08.06 ~ 2025.08.08)
+
+- **프로젝트 기관:** 대한상공회의소 서울기술교육센터
+- **핵심 키워드:** 스마트 라커 시스템 구현, 비밀번호 입력시 열림, RFID 인식
+- **핵심 기술:** Stm32, Servo Motor, RFID, 4x4 Key
+
+---
 
 ## 🛠 기술 스택
 <p align="left">

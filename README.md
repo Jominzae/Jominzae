@@ -31,15 +31,15 @@
 ### [Linux Device Driver](https://github.com/Jominzae/Project-DeviceDriver) - 2인 (2025.12.24 ~ 2025.12.29)
 
 - **프로젝트 기관:** 대한상공회의소 서울기술교육센터
-- **핵심 키워드:** Device Driver
-- **핵심 기술:** Raspberry Pi
+- **핵심 키워드:** 시계 제어, 실시간 온습도 확인
+- **핵심 기술:** Raspberry Pi, Device Driver
 ---
 
 ### [Wiffle-Fi](https://github.com/Jominzae/Project-Waffle-Fi) - 4인 (2025.12.15 ~ 2026.01.05)
 
 - **프로젝트 기관:** 대한상공회의소 서울기술교육센터
-- **핵심 키워드:** 강화학습, ESP32 Device Driver, Qt GUI, Wi-Fi Heatmap 
-- **핵심 기술:** Raspberry Pi, Arduino, Intel Geti, MariaDB, Tkinter
+- **핵심 키워드:** 강화학습이용 맵 탐색, Wi-Fi RSSI Heatmap, DB관리, Wi-Fi Dead Zone 탐색
+- **핵심 기술:** Raspberry Pi, Device Driver, SQLite, Qt, Reinforcement Learning, ROS2
 
 ---
 

@@ -28,6 +28,21 @@
 
 ---
 
+### [Linux Device Driver](https://github.com/Jominzae/Project-DeviceDriver) - 2인 (2025.12.24 ~ 2025.12.29)
+
+- **프로젝트 기관:** 대한상공회의소 서울기술교육센터
+- **핵심 키워드:** Device Driver
+- **핵심 기술:** Raspberry Pi
+---
+
+### [Wiffle-Fi](https://github.com/Jominzae/Project-Waffle-Fi) - 4인 (2025.12.15 ~ 2026.01.05)
+
+- **프로젝트 기관:** 대한상공회의소 서울기술교육센터
+- **핵심 키워드:** 강화학습, ESP32 Device Driver, Qt GUI, Wi-Fi Heatmap 
+- **핵심 기술:** Raspberry Pi, Arduino, Intel Geti, MariaDB, Tkinter
+
+---
+
 ## 🛠 기술 스택
 <p align="left">
   <!-- Languages -->

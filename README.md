@@ -34,7 +34,7 @@
 - **핵심 기술:** Raspberry Pi, Device Driver
 ---
 
-### [Wiffle-Fi](https://github.com/Jominzae/Project-Waffle-Fi) - 4인 (2025.12.15 ~ 2026.01.05)
+### [Wiffle-Fi](https://github.com/Jominzae/Project-Wiffle-Fi) - 4인 (2025.12.15 ~ 2026.01.05)
 
 - **프로젝트 기관:** 대한상공회의소 서울기술교육센터
 - **핵심 키워드:** 강화학습이용 맵 탐색, Wi-Fi RSSI Heatmap, DB관리, Wi-Fi Dead Zone 탐색

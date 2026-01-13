@@ -31,7 +31,7 @@
 
 - **프로젝트 기관:** 대한상공회의소 서울기술교육센터
 - **핵심 키워드:** 시계 제어, 실시간 온습도 확인
-- **핵심 기술:** Raspberry Pi, Device Driver
+- **핵심 기술:** Raspberry Pi, Device Driver, Oscilloscope
 ---
 
 ### [Wiffle-Fi](https://github.com/Jominzae/Project-Wiffle-Fi) - 4인 (2025.12.15 ~ 2026.01.05) - 🥇[intel] 엣지 AI SW 아카데미 최우수상 수상

@@ -35,9 +35,10 @@
 
 ## 🚀 학습 
 
-### [오실로스코프를 이용한 인터페이스 분석 및 데이터 타이밍 검증](https://github.com/Jominzae/Study-Oscilloscope)
+### [오실로스코프를 이용한 인터페이스 분석](https://github.com/Jominzae/Study-Oscilloscope)
 
 - **학습 목표:**  STM32 주변장치 인터페이스 및 통신 프로토콜 분석
+ - **핵심 키워드:** STM32, Oscilloscope, kiCad
 
 ## 🛠 기술 스택
 <p align="left">

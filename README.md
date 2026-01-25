@@ -7,13 +7,13 @@
 
 - **프로젝트 기관:** 대한상공회의소 서울기술교육센터
 - **핵심 키워드:** 스마트 라커 시스템 구현, 비밀번호 입력시 열림, RFID 인식
-- **핵심 기술:** Stm32, Servo Motor, RFID, 4x4 Key
+- **핵심 기술:** STM32, Servo Motor, RFID, 4x4 Key
 
 ### [스마트 자동차 제어 시스템](https://github.com/Jominzae/Project-SmartCar) - 2인 (2025.08.21 ~ 2025.08.25)
 
 - **프로젝트 기관:** 대한상공회의소 서울기술교육센터
 - **핵심 키워드:** 장애물 인식, 모터 제어, TCP/IP 통신, 차량 데이터 관리
-- **핵심 기술:** Raspberry Pi, Arduino, Stm32, C, Wifi / Bluetooth Module, Firmware
+- **핵심 기술:** Raspberry Pi, Arduino, STM32, C, Wifi / Bluetooth Module, Firmware
 
 ### [스마트 팩토리](https://github.com/Jominzae/Project-SmartFactory) - 5인 (2025.09.24 ~ 2025.10.22) - 🏅[intel] 엣지 AI SW 아카데미 실무 프로젝트 우수상 수상
 
@@ -32,6 +32,12 @@
 - **프로젝트 기관:** 대한상공회의소 서울기술교육센터
 - **핵심 키워드:** 강화학습이용 맵 탐색, Wi-Fi RSSI Heatmap, DB관리, Wi-Fi Dead Zone 탐색
 - **핵심 기술:** Raspberry Pi, Device Driver, SQLite, Qt, Reinforcement Learning, ROS2
+
+### [RT-CAN Gateway System](https://github.com/Jominzae/Project-RT-CAN-Gateway-System) - 3인 (2026.01.14 ~ 2026.01.16)
+
+- **프로젝트 기관:** 대한상공회의소 서울기술교육센터
+- **핵심 키워드:** STM32 기반 센서 펌웨어, CAN 통신, FreeRTOS 태스크 제어, Ethernet 통신
+- **핵심 기술:** STM32, Raspberry Pi, CAN, RTOS, LwIP, Ethernet
 
 ## 🚀 학습 
 
